@@ -28,6 +28,12 @@
       <version>5.2.22.RELEASE</version>
     </dependency>
 	
+	<dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-jdfc</artifactId>
+      <version>5.2.22.RELEASE</version>
+    </dependency>
+	
 	
 	
   </dependencies>
